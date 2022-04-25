@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.TextAreas {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.SimpleTextArea {
+  margin: 8px;
+}
+
+.TextLength{
+  text-align: right;
+}
